@@ -1,6 +1,6 @@
 # nextjs-sqljs-webpack-demo
 
-This is an example using Next.js, sql.js, Webpack5.
+This is an example using Next.js, sql.js, Webpack5.  
 This demo bundles wasm files using asset/resource.
 
 ```
